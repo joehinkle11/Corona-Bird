@@ -3,7 +3,7 @@
 deathDelay = 0
 score = 0
 
-
+--make a cang
 
 --background
 bg = display.newImageRect("background.jpg",display.contentWidth,display.contentHeight)
